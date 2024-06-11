@@ -1,0 +1,5 @@
+# print("Enter the name")
+# propm = input()
+# print("Your name is = ",propm)
+x = input('Enter your name:')
+print('Hello, ' + x)
